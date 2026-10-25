@@ -1,2 +1,2 @@
-# Veranda
-Veranda is mobile app for comunity
+# Communifi
+Communifi is mobile app for comunity
