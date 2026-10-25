@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+boto3
+google-auth
+requests
+pyjwt
+python-dotenv
+anthropic
